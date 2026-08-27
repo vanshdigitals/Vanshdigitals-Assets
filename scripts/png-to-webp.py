@@ -22,10 +22,13 @@ def unique(path: Path) -> Path:
         if not p.exists(): return p
         i += 1
 
+import re
+
 def main():
     if not SRC.exists():
         print("No 'originals/' folder found. Run from the Design-Work-Gallery root."); return
-    files = [p for p in SRC.rglob("*") if p.is_file() and p.suffix.lower() in EXTS]
+    # Sort files to guarantee serial processing order
+    files = sorted([p for p in SRC.rglob("*") if p.is_file() and p.suffix.lower() in EXTS])
     if not files:
         print("No images found under originals/."); return
     tb = ta = done = 0
@@ -37,8 +40,21 @@ def main():
             if MAX_WIDTH and img.width > MAX_WIDTH:
                 h = round(img.height * MAX_WIDTH / img.width)
                 img = img.resize((MAX_WIDTH, h), Image.LANCZOS)
-            rel = p.relative_to(SRC).with_suffix(".webp")
-            out = unique(OUT / rel)
+            
+            # Format output folder names
+            rel = p.relative_to(SRC)
+            new_parts = []
+            for part in rel.parts[:-1]:
+                # Remove one zero from 00x (e.g., RR 001 -> RR 01)
+                part = re.sub(r'00(\d)', r'0\1', part)
+                # Replace spaces with dashes
+                part = part.replace(' ', '-')
+                new_parts.append(part)
+            # Reconstruct relative path with modified directories and original filename, then change to .webp
+            new_rel = Path(*new_parts) / rel.name
+            new_rel = new_rel.with_suffix(".webp")
+            
+            out = unique(OUT / new_rel)
             out.parent.mkdir(parents=True, exist_ok=True)
             kw = {"format":"WEBP","method":6}
             kw["lossless"] = True if LOSSLESS else kw.__setitem__("quality", QUALITY)
