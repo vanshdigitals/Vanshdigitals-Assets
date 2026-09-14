@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Design Work Gallery — Live Preview & Asset Pipeline</title>
+  <meta name="description" content="Live visual inspection and copy-paste asset pipeline for Vansh Digitals graphic design portfolio collections." />
+  <link rel="stylesheet" href="preview/style.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>✨</text></svg>" />
+</head>
+<body>
+
+  <!-- TOP HEADER -->
+  <header class="top-header" id="topHeader">
+    <div class="brand-title-group">
+      <div class="logo-icon">VD</div>
+      <div class="brand-text">
+        <h1>DESIGN WORK GALLERY</h1>
+        <p>Asset Pipeline & Live Preview Engine</p>
+      </div>
+    </div>
+
+    <!-- Center Viewport Controls (Desktop / Tablet / Mobile) -->
+    <div class="header-center-controls">
+      <button class="viewport-btn active" data-viewport="desktop" title="Desktop view (Full Width)">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>
+        Desktop
+      </button>
+      <button class="viewport-btn" data-viewport="tablet" title="Tablet view (768px)">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="4" y="2" width="16" height="20" rx="2"/><line x1="12" y1="18" x2="12.01" y2="18"/></svg>
+        Tablet
+      </button>
+      <button class="viewport-btn" data-viewport="mobile" title="Mobile view (390px)">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="5" y="2" width="14" height="20" rx="2"/><line x1="12" y1="18" x2="12.01" y2="18"/></svg>
+        Mobile
+      </button>
+    </div>
+
+    <!-- Right Header Tools -->
+    <div class="header-right-tools">
+      <div class="pill-status">
+        <span class="pulse-dot"></span>
+        <span>Engine Active</span>
+      </div>
+      <button class="source-toggle-btn" id="sourceToggleBtn" title="Switch between local WebP preview and jsDelivr CDN">
+        ⚡ Local Fast Preview
+      </button>
+    </div>
+  </header>
+
+  <!-- BRAND SELECTION NAV BAR -->
+  <nav class="brand-nav-bar" id="brandNavBar" aria-label="Brand Selector">
+    <div class="brand-tabs-group" id="brandTabsGroup">
+      <!-- Dynamically populated by app.js -->
+    </div>
+  </nav>
+
+  <!-- CATEGORY FILTER & VIEW MODE BAR -->
+  <div class="category-filter-bar" id="categoryFilterBar">
+    <div class="category-pills" id="categoryPills">
+      <!-- Dynamically populated by app.js -->
+    </div>
+
+    <div class="view-mode-toggle">
+      <button class="view-mode-btn active" data-mode="collection">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg>
+        Collection
+      </button>
+      <button class="view-mode-btn" data-mode="single">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><polyline points="21 15 16 10 5 21"/></svg>
+        Single Project
+      </button>
+      <button class="view-mode-btn" data-mode="json">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg>
+        Frontend Data (JSON)
+      </button>
+    </div>
+  </div>
+
+  <!-- MAIN PREVIEW CANVAS -->
+  <main class="main-wrapper" id="mainWrapper">
+    <div class="viewport-frame desktop" id="viewportFrame">
+      <div id="contentMount">
+        <!-- Collection or Single Project or JSON rendered here -->
+      </div>
+    </div>
+  </main>
+
+  <script src="preview/app.js"></script>
+</body>
+</html>

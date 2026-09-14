@@ -1,0 +1,3520 @@
+{
+  "Builders-Playground": {
+    "carousel": {
+      "Event-Carousel": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Builders-Playground/Event-Carousel/1.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 246810,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Builders-Playground/Event-Carousel/2.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 327748,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Builders-Playground/Event-Carousel/3.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 326192,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Builders-Playground/Event-Carousel/4.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 247782,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Builders-Playground/Event-Carousel/5.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 209770,
+          "format": "webp"
+        },
+        {
+          "order": 6,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Builders-Playground/Event-Carousel/6.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 156328,
+          "format": "webp"
+        }
+      ]
+    },
+    "reelCover": [
+      {
+        "order": 1,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Builders-Playground/Reel-Covers/builders-playground-1st-reel-cover-launching-v2.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 94532,
+        "format": "webp"
+      },
+      {
+        "order": 2,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Builders-Playground/Reel-Covers/builders-playground-2nd-reel-cover-join-cummunity.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 127124,
+        "format": "webp"
+      },
+      {
+        "order": 3,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Builders-Playground/Reel-Covers/builders-playground-3rd-reel-cover-join-cummunity-about-bp.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 139382,
+        "format": "webp"
+      },
+      {
+        "order": 4,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Builders-Playground/Reel-Covers/builders-playground-4th-reel-cover-foot-ball-event-01.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 183366,
+        "format": "webp"
+      },
+      {
+        "order": 5,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Builders-Playground/Reel-Covers/builders-playground-5th-reel-cover-foot-ball-event-02.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 188940,
+        "format": "webp"
+      },
+      {
+        "order": 6,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Builders-Playground/Reel-Covers/builders-playground-6th-reel-cover-foot-ball-event-03.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 182206,
+        "format": "webp"
+      }
+    ],
+    "post": [
+      {
+        "order": 1,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Builders-Playground/Event-Poster/builders-playground-poster-design-v1.webp",
+        "width": 1080,
+        "height": 1440,
+        "aspectRatio": "3:4",
+        "sizeBytes": 156460,
+        "format": "webp"
+      }
+    ],
+    "logo": [],
+    "highlights": [
+      {
+        "order": 1,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Builders-Playground/Highlight-Covers/01-about-us.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 18268,
+        "format": "webp"
+      },
+      {
+        "order": 2,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Builders-Playground/Highlight-Covers/02-bts-v2.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 34416,
+        "format": "webp"
+      },
+      {
+        "order": 3,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Builders-Playground/Highlight-Covers/03-community-v2.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 28120,
+        "format": "webp"
+      },
+      {
+        "order": 4,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Builders-Playground/Highlight-Covers/04-event-v2.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 29926,
+        "format": "webp"
+      },
+      {
+        "order": 5,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Builders-Playground/Highlight-Covers/05-football-baithek.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 31546,
+        "format": "webp"
+      },
+      {
+        "order": 6,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Builders-Playground/Highlight-Covers/06-upcoming-events.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 30146,
+        "format": "webp"
+      }
+    ]
+  },
+  "Cuts-and-Curves": {
+    "carousel": {
+      "CC-Dark-01-5-BRIDAL-SKINCARE-MISTAKES": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-01-5-BRIDAL-SKINCARE-MISTAKES/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 109756,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-01-5-BRIDAL-SKINCARE-MISTAKES/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 137118,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-01-5-BRIDAL-SKINCARE-MISTAKES/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 192332,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-01-5-BRIDAL-SKINCARE-MISTAKES/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 155266,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-01-5-BRIDAL-SKINCARE-MISTAKES/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 114018,
+          "format": "webp"
+        }
+      ],
+      "CC-Dark-02-GEL-VS-ACRYLIC": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-02-GEL-VS-ACRYLIC/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 145276,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-02-GEL-VS-ACRYLIC/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 232148,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-02-GEL-VS-ACRYLIC/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 183544,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-02-GEL-VS-ACRYLIC/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 129898,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-02-GEL-VS-ACRYLIC/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 173082,
+          "format": "webp"
+        }
+      ],
+      "CC-Dark-03-STOP-GUESSING-NANOPLASTIA-VS-BOTOX": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-03-STOP-GUESSING-NANOPLASTIA-VS-BOTOX/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 116052,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-03-STOP-GUESSING-NANOPLASTIA-VS-BOTOX/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 135490,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-03-STOP-GUESSING-NANOPLASTIA-VS-BOTOX/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 166060,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-03-STOP-GUESSING-NANOPLASTIA-VS-BOTOX/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 148366,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-03-STOP-GUESSING-NANOPLASTIA-VS-BOTOX/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 115184,
+          "format": "webp"
+        }
+      ],
+      "CC-Dark-04-DAY-VS-NIGHT-LOOK-CAKEY": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-04-DAY-VS-NIGHT-LOOK-CAKEY/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 86196,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-04-DAY-VS-NIGHT-LOOK-CAKEY/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 92716,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-04-DAY-VS-NIGHT-LOOK-CAKEY/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 97290,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-04-DAY-VS-NIGHT-LOOK-CAKEY/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 137164,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-04-DAY-VS-NIGHT-LOOK-CAKEY/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 142750,
+          "format": "webp"
+        }
+      ],
+      "CC-Dark-05-STOP-DOING-THIS-WHY-HOME-FACIALS-ARE-RUINING-YOUR-GLOW": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-05-STOP-DOING-THIS-WHY-HOME-FACIALS-ARE-RUINING-YOUR-GLOW/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 82824,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-05-STOP-DOING-THIS-WHY-HOME-FACIALS-ARE-RUINING-YOUR-GLOW/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 154896,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-05-STOP-DOING-THIS-WHY-HOME-FACIALS-ARE-RUINING-YOUR-GLOW/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 85874,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-05-STOP-DOING-THIS-WHY-HOME-FACIALS-ARE-RUINING-YOUR-GLOW/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 75590,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-05-STOP-DOING-THIS-WHY-HOME-FACIALS-ARE-RUINING-YOUR-GLOW/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 114214,
+          "format": "webp"
+        }
+      ],
+      "CC-Dark-06-THE-1-MINUTE-HAIR-TEST-YOU-NEED-TO-DO": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-06-THE-1-MINUTE-HAIR-TEST-YOU-NEED-TO-DO/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 85616,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-06-THE-1-MINUTE-HAIR-TEST-YOU-NEED-TO-DO/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 113602,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-06-THE-1-MINUTE-HAIR-TEST-YOU-NEED-TO-DO/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 134260,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-06-THE-1-MINUTE-HAIR-TEST-YOU-NEED-TO-DO/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 107940,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-06-THE-1-MINUTE-HAIR-TEST-YOU-NEED-TO-DO/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 95992,
+          "format": "webp"
+        }
+      ],
+      "CC-Dark-07-WHY-THAT-LIPSTICK-LOOKS-BAD-ON-YOU": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-07-WHY-THAT-LIPSTICK-LOOKS-BAD-ON-YOU/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 89802,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-07-WHY-THAT-LIPSTICK-LOOKS-BAD-ON-YOU/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 102232,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-07-WHY-THAT-LIPSTICK-LOOKS-BAD-ON-YOU/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 86180,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-07-WHY-THAT-LIPSTICK-LOOKS-BAD-ON-YOU/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 79156,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-07-WHY-THAT-LIPSTICK-LOOKS-BAD-ON-YOU/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 116920,
+          "format": "webp"
+        }
+      ],
+      "CC-Dark-08-ACNE-ZONES-WHAT-YOUR-ACNE-IS-TRYING-TO-TELL-YOU": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-08-ACNE-ZONES-WHAT-YOUR-ACNE-IS-TRYING-TO-TELL-YOU/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 106616,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-08-ACNE-ZONES-WHAT-YOUR-ACNE-IS-TRYING-TO-TELL-YOU/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 111650,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-08-ACNE-ZONES-WHAT-YOUR-ACNE-IS-TRYING-TO-TELL-YOU/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 107634,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-08-ACNE-ZONES-WHAT-YOUR-ACNE-IS-TRYING-TO-TELL-YOU/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 110988,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-08-ACNE-ZONES-WHAT-YOUR-ACNE-IS-TRYING-TO-TELL-YOU/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 103994,
+          "format": "webp"
+        }
+      ],
+      "CC-Dark-09-IS-YOUR-SHAMPOO-KILLING-YOUR-HAIR": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-09-IS-YOUR-SHAMPOO-KILLING-YOUR-HAIR/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 101878,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-09-IS-YOUR-SHAMPOO-KILLING-YOUR-HAIR/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 120360,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-09-IS-YOUR-SHAMPOO-KILLING-YOUR-HAIR/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 142726,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-09-IS-YOUR-SHAMPOO-KILLING-YOUR-HAIR/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 109750,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-09-IS-YOUR-SHAMPOO-KILLING-YOUR-HAIR/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 113152,
+          "format": "webp"
+        }
+      ],
+      "CC-Dark-10-CONFUSED-WHICH-NAIL-SHAPE-SUITS-YOU": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-10-CONFUSED-WHICH-NAIL-SHAPE-SUITS-YOU/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 95176,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-10-CONFUSED-WHICH-NAIL-SHAPE-SUITS-YOU/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 82500,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-10-CONFUSED-WHICH-NAIL-SHAPE-SUITS-YOU/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 109390,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-10-CONFUSED-WHICH-NAIL-SHAPE-SUITS-YOU/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 68512,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-10-CONFUSED-WHICH-NAIL-SHAPE-SUITS-YOU/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 95566,
+          "format": "webp"
+        }
+      ],
+      "CC-Dark-11-Sample-Carousel-Ultimate-Glow-Package": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-11-Sample-Carousel-Ultimate-Glow-Package/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 120106,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-11-Sample-Carousel-Ultimate-Glow-Package/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 116516,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-11-Sample-Carousel-Ultimate-Glow-Package/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 132916,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Dark-11-Sample-Carousel-Ultimate-Glow-Package/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 130472,
+          "format": "webp"
+        }
+      ],
+      "CC-Light-01-IS-YOUR-SHOWER-WATER-RUINING-YOUR-HAIR": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-01-IS-YOUR-SHOWER-WATER-RUINING-YOUR-HAIR/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 111644,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-01-IS-YOUR-SHOWER-WATER-RUINING-YOUR-HAIR/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 250778,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-01-IS-YOUR-SHOWER-WATER-RUINING-YOUR-HAIR/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 102004,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-01-IS-YOUR-SHOWER-WATER-RUINING-YOUR-HAIR/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 207182,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-01-IS-YOUR-SHOWER-WATER-RUINING-YOUR-HAIR/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 65606,
+          "format": "webp"
+        }
+      ],
+      "CC-Light-02-STOP-USING-BOX-DYE-FOR-ROOT-TOUCH-UP": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-02-STOP-USING-BOX-DYE-FOR-ROOT-TOUCH-UP/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 223080,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-02-STOP-USING-BOX-DYE-FOR-ROOT-TOUCH-UP/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 246560,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-02-STOP-USING-BOX-DYE-FOR-ROOT-TOUCH-UP/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 34548,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-02-STOP-USING-BOX-DYE-FOR-ROOT-TOUCH-UP/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 305756,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-02-STOP-USING-BOX-DYE-FOR-ROOT-TOUCH-UP/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 70726,
+          "format": "webp"
+        }
+      ],
+      "CC-Light-03-DO-YOU-DANDRUFF-OR-JUST-A-DRY-SCALP": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-03-DO-YOU-DANDRUFF-OR-JUST-A-DRY-SCALP/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 121262,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-03-DO-YOU-DANDRUFF-OR-JUST-A-DRY-SCALP/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 94274,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-03-DO-YOU-DANDRUFF-OR-JUST-A-DRY-SCALP/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 68606,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-03-DO-YOU-DANDRUFF-OR-JUST-A-DRY-SCALP/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 54878,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-03-DO-YOU-DANDRUFF-OR-JUST-A-DRY-SCALP/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 58852,
+          "format": "webp"
+        }
+      ],
+      "CC-Light-04-LOOKING-DOWN-AT-YOUR-PHONE-IS-AGING-YOUR-NECK": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-04-LOOKING-DOWN-AT-YOUR-PHONE-IS-AGING-YOUR-NECK/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 108664,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-04-LOOKING-DOWN-AT-YOUR-PHONE-IS-AGING-YOUR-NECK/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 98258,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-04-LOOKING-DOWN-AT-YOUR-PHONE-IS-AGING-YOUR-NECK/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 129536,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-04-LOOKING-DOWN-AT-YOUR-PHONE-IS-AGING-YOUR-NECK/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 70194,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-04-LOOKING-DOWN-AT-YOUR-PHONE-IS-AGING-YOUR-NECK/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 53802,
+          "format": "webp"
+        }
+      ],
+      "CC-Light-05-THE-PIMPLE-IS-GONE-BUT-THE-DARK-SPOT-STAYED": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-05-THE-PIMPLE-IS-GONE-BUT-THE-DARK-SPOT-STAYED/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 68900,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-05-THE-PIMPLE-IS-GONE-BUT-THE-DARK-SPOT-STAYED/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 73498,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-05-THE-PIMPLE-IS-GONE-BUT-THE-DARK-SPOT-STAYED/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 64378,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-05-THE-PIMPLE-IS-GONE-BUT-THE-DARK-SPOT-STAYED/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 47536,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-05-THE-PIMPLE-IS-GONE-BUT-THE-DARK-SPOT-STAYED/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 55518,
+          "format": "webp"
+        }
+      ],
+      "CC-Light-06-WHY-YOUR-DARK-CIRCLES-WONT-GO-AWAY": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-06-WHY-YOUR-DARK-CIRCLES-WONT-GO-AWAY/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 74294,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-06-WHY-YOUR-DARK-CIRCLES-WONT-GO-AWAY/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 48566,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-06-WHY-YOUR-DARK-CIRCLES-WONT-GO-AWAY/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 84620,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-06-WHY-YOUR-DARK-CIRCLES-WONT-GO-AWAY/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 114540,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-06-WHY-YOUR-DARK-CIRCLES-WONT-GO-AWAY/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 52562,
+          "format": "webp"
+        }
+      ],
+      "CC-Light-07-HOW-TO-SURVIVE-YOUR-HALDI-MEHNDI-MAKEUP": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-07-HOW-TO-SURVIVE-YOUR-HALDI-MEHNDI-MAKEUP/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 134076,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-07-HOW-TO-SURVIVE-YOUR-HALDI-MEHNDI-MAKEUP/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 148584,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-07-HOW-TO-SURVIVE-YOUR-HALDI-MEHNDI-MAKEUP/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 56790,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-07-HOW-TO-SURVIVE-YOUR-HALDI-MEHNDI-MAKEUP/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 70028,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-07-HOW-TO-SURVIVE-YOUR-HALDI-MEHNDI-MAKEUP/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 74928,
+          "format": "webp"
+        }
+      ],
+      "CC-Light-08-DOES-YOUR-EYELINER-DISAPPEAR": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-08-DOES-YOUR-EYELINER-DISAPPEAR/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 61028,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-08-DOES-YOUR-EYELINER-DISAPPEAR/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 61742,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-08-DOES-YOUR-EYELINER-DISAPPEAR/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 76830,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-08-DOES-YOUR-EYELINER-DISAPPEAR/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 70504,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-08-DOES-YOUR-EYELINER-DISAPPEAR/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 58124,
+          "format": "webp"
+        }
+      ],
+      "CC-Light-09-HOW-TO-GET-PLUMP-FULLER-LIPS-DISAPPEAR": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-09-HOW-TO-GET-PLUMP-FULLER-LIPS-DISAPPEAR/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 60248,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-09-HOW-TO-GET-PLUMP-FULLER-LIPS-DISAPPEAR/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 71164,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-09-HOW-TO-GET-PLUMP-FULLER-LIPS-DISAPPEAR/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 44216,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-09-HOW-TO-GET-PLUMP-FULLER-LIPS-DISAPPEAR/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 42422,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-09-HOW-TO-GET-PLUMP-FULLER-LIPS-DISAPPEAR/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 59328,
+          "format": "webp"
+        }
+      ],
+      "CC-Light-10-WHY-EVERYONE-IS-SWITCHING-TO-THE-RUSSIAN-MANICURE": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-10-WHY-EVERYONE-IS-SWITCHING-TO-THE-RUSSIAN-MANICURE/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 66090,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-10-WHY-EVERYONE-IS-SWITCHING-TO-THE-RUSSIAN-MANICURE/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 37710,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-10-WHY-EVERYONE-IS-SWITCHING-TO-THE-RUSSIAN-MANICURE/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 52536,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-10-WHY-EVERYONE-IS-SWITCHING-TO-THE-RUSSIAN-MANICURE/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 63666,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-10-WHY-EVERYONE-IS-SWITCHING-TO-THE-RUSSIAN-MANICURE/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 53098,
+          "format": "webp"
+        }
+      ],
+      "CC-Light-11-STILL-WAXING-EVERY-3-WEEKS": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-11-STILL-WAXING-EVERY-3-WEEKS/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 60008,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-11-STILL-WAXING-EVERY-3-WEEKS/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 58374,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-11-STILL-WAXING-EVERY-3-WEEKS/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 51906,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-11-STILL-WAXING-EVERY-3-WEEKS/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 56438,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-11-STILL-WAXING-EVERY-3-WEEKS/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 61330,
+          "format": "webp"
+        }
+      ],
+      "CC-Light-12-WANT-PERFECT-BROWS": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-12-WANT-PERFECT-BROWS/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 92054,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-12-WANT-PERFECT-BROWS/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 42896,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-12-WANT-PERFECT-BROWS/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 67450,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-12-WANT-PERFECT-BROWS/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 44230,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-12-WANT-PERFECT-BROWS/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 59512,
+          "format": "webp"
+        }
+      ],
+      "CC-Light-Part2-01-ARE-YOU-APPLYING-HAIR-SERUM-WRONG": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-01-ARE-YOU-APPLYING-HAIR-SERUM-WRONG/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 126508,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-01-ARE-YOU-APPLYING-HAIR-SERUM-WRONG/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 129736,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-01-ARE-YOU-APPLYING-HAIR-SERUM-WRONG/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 118248,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-01-ARE-YOU-APPLYING-HAIR-SERUM-WRONG/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 112462,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-01-ARE-YOU-APPLYING-HAIR-SERUM-WRONG/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 58392,
+          "format": "webp"
+        }
+      ],
+      "CC-Light-Part2-02-DO-YO-NEED-HAIRCUT-OR-A-HAIR-SPA": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-02-DO-YO-NEED-HAIRCUT-OR-A-HAIR-SPA/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 120216,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-02-DO-YO-NEED-HAIRCUT-OR-A-HAIR-SPA/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 105784,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-02-DO-YO-NEED-HAIRCUT-OR-A-HAIR-SPA/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 84374,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-02-DO-YO-NEED-HAIRCUT-OR-A-HAIR-SPA/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 65002,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-02-DO-YO-NEED-HAIRCUT-OR-A-HAIR-SPA/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 107446,
+          "format": "webp"
+        }
+      ],
+      "CC-Light-Part2-03-SUMMER-HAIR-CARE-THE-SUN-IS-FRYING-YOUR-HAIR": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-03-SUMMER-HAIR-CARE-THE-SUN-IS-FRYING-YOUR-HAIR/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 137648,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-03-SUMMER-HAIR-CARE-THE-SUN-IS-FRYING-YOUR-HAIR/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 119204,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-03-SUMMER-HAIR-CARE-THE-SUN-IS-FRYING-YOUR-HAIR/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 72888,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-03-SUMMER-HAIR-CARE-THE-SUN-IS-FRYING-YOUR-HAIR/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 70956,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-03-SUMMER-HAIR-CARE-THE-SUN-IS-FRYING-YOUR-HAIR/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 96524,
+          "format": "webp"
+        }
+      ],
+      "CC-Light-Part2-04-SKINCARE-SERIES-WASHING-YOUR-FACE-BUT-STILL-BREAKING-OUT": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-04-SKINCARE-SERIES-WASHING-YOUR-FACE-BUT-STILL-BREAKING-OUT/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 110246,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-04-SKINCARE-SERIES-WASHING-YOUR-FACE-BUT-STILL-BREAKING-OUT/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 132784,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-04-SKINCARE-SERIES-WASHING-YOUR-FACE-BUT-STILL-BREAKING-OUT/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 80410,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-04-SKINCARE-SERIES-WASHING-YOUR-FACE-BUT-STILL-BREAKING-OUT/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 69560,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-04-SKINCARE-SERIES-WASHING-YOUR-FACE-BUT-STILL-BREAKING-OUT/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 94916,
+          "format": "webp"
+        },
+        {
+          "order": 6,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-04-SKINCARE-SERIES-WASHING-YOUR-FACE-BUT-STILL-BREAKING-OUT/6.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 104476,
+          "format": "webp"
+        }
+      ],
+      "CC-Light-Part2-05-3-SUNSCREEN-RULES-YOUR-BREAKING": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-05-3-SUNSCREEN-RULES-YOUR-BREAKING/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 126134,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-05-3-SUNSCREEN-RULES-YOUR-BREAKING/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 136738,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-05-3-SUNSCREEN-RULES-YOUR-BREAKING/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 57438,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-05-3-SUNSCREEN-RULES-YOUR-BREAKING/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 55730,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-05-3-SUNSCREEN-RULES-YOUR-BREAKING/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 61464,
+          "format": "webp"
+        }
+      ],
+      "CC-Light-Part2-06-IS-ICING-YOUR-FACE-ACTUALLY-GOOD": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-06-IS-ICING-YOUR-FACE-ACTUALLY-GOOD/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 101360,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-06-IS-ICING-YOUR-FACE-ACTUALLY-GOOD/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 99224,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-06-IS-ICING-YOUR-FACE-ACTUALLY-GOOD/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 100376,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-06-IS-ICING-YOUR-FACE-ACTUALLY-GOOD/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 70606,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-06-IS-ICING-YOUR-FACE-ACTUALLY-GOOD/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 87890,
+          "format": "webp"
+        }
+      ],
+      "CC-Light-Part2-07-HOW-TO-STOP-YOUR-MAKE-UP-FROM-MELTING-TODAY": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-07-HOW-TO-STOP-YOUR-MAKE-UP-FROM-MELTING-TODAY/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 69074,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-07-HOW-TO-STOP-YOUR-MAKE-UP-FROM-MELTING-TODAY/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 60276,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-07-HOW-TO-STOP-YOUR-MAKE-UP-FROM-MELTING-TODAY/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 79340,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-07-HOW-TO-STOP-YOUR-MAKE-UP-FROM-MELTING-TODAY/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 97536,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-07-HOW-TO-STOP-YOUR-MAKE-UP-FROM-MELTING-TODAY/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 87384,
+          "format": "webp"
+        }
+      ],
+      "CC-Light-Part2-08-SPONGE-OR-BRUSH": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-08-SPONGE-OR-BRUSH/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 83808,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-08-SPONGE-OR-BRUSH/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 48614,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-08-SPONGE-OR-BRUSH/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 79346,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-08-SPONGE-OR-BRUSH/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 98024,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-08-SPONGE-OR-BRUSH/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 73726,
+          "format": "webp"
+        }
+      ],
+      "CC-Light-Part2-09-YOUR-PRE-BRIDAL-TIMELINE": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-09-YOUR-PRE-BRIDAL-TIMELINE/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 88710,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-09-YOUR-PRE-BRIDAL-TIMELINE/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 122148,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-09-YOUR-PRE-BRIDAL-TIMELINE/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 67290,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-09-YOUR-PRE-BRIDAL-TIMELINE/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 58068,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-09-YOUR-PRE-BRIDAL-TIMELINE/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 99610,
+          "format": "webp"
+        },
+        {
+          "order": 6,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-09-YOUR-PRE-BRIDAL-TIMELINE/6.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 105940,
+          "format": "webp"
+        }
+      ],
+      "CC-Light-Part2-10-WHY-YOUR-GEL-NAILS-KEEP-CHIPPING": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-10-WHY-YOUR-GEL-NAILS-KEEP-CHIPPING/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 88896,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-10-WHY-YOUR-GEL-NAILS-KEEP-CHIPPING/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 86250,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-10-WHY-YOUR-GEL-NAILS-KEEP-CHIPPING/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 133990,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-10-WHY-YOUR-GEL-NAILS-KEEP-CHIPPING/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 45366,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-10-WHY-YOUR-GEL-NAILS-KEEP-CHIPPING/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 54848,
+          "format": "webp"
+        }
+      ],
+      "CC-Light-Part2-11-THE-SUMMER-DEBATE": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-11-THE-SUMMER-DEBATE/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 78008,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-11-THE-SUMMER-DEBATE/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 50160,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-11-THE-SUMMER-DEBATE/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 58544,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-11-THE-SUMMER-DEBATE/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 84494,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-11-THE-SUMMER-DEBATE/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 74368,
+          "format": "webp"
+        }
+      ],
+      "CC-Light-Part2-12-STOP-PICKING-YOUR-CUTICLES": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-12-STOP-PICKING-YOUR-CUTICLES/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 76544,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-12-STOP-PICKING-YOUR-CUTICLES/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 53876,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-12-STOP-PICKING-YOUR-CUTICLES/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 58358,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-12-STOP-PICKING-YOUR-CUTICLES/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 46608,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Carousel/CC-Light-Part2-12-STOP-PICKING-YOUR-CUTICLES/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 56856,
+          "format": "webp"
+        }
+      ]
+    },
+    "reelCover": [
+      {
+        "order": 1,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Reel-Cover/1.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 281340,
+        "format": "webp"
+      },
+      {
+        "order": 2,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Reel-Cover/2.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 361660,
+        "format": "webp"
+      },
+      {
+        "order": 3,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Reel-Cover/3.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 328188,
+        "format": "webp"
+      },
+      {
+        "order": 4,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Reel-Cover/4.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 249992,
+        "format": "webp"
+      },
+      {
+        "order": 5,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Reel-Cover/5.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 152726,
+        "format": "webp"
+      },
+      {
+        "order": 6,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Reel-Cover/6.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 165016,
+        "format": "webp"
+      },
+      {
+        "order": 7,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Reel-Cover/7.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 160892,
+        "format": "webp"
+      },
+      {
+        "order": 8,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Reel-Cover/8.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 259808,
+        "format": "webp"
+      },
+      {
+        "order": 9,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Reel-Cover/9.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 167680,
+        "format": "webp"
+      },
+      {
+        "order": 10,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Reel-Cover/10.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 187162,
+        "format": "webp"
+      },
+      {
+        "order": 11,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Reel-Cover/11.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 225806,
+        "format": "webp"
+      },
+      {
+        "order": 12,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Reel-Cover/12.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 201318,
+        "format": "webp"
+      },
+      {
+        "order": 13,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Reel-Cover/13.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 204702,
+        "format": "webp"
+      },
+      {
+        "order": 14,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Reel-Cover/14.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 193180,
+        "format": "webp"
+      },
+      {
+        "order": 15,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Reel-Cover/15.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 116862,
+        "format": "webp"
+      },
+      {
+        "order": 16,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Reel-Cover/16.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 115378,
+        "format": "webp"
+      },
+      {
+        "order": 17,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Reel-Cover/17.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 129266,
+        "format": "webp"
+      },
+      {
+        "order": 18,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Reel-Cover/18.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 111258,
+        "format": "webp"
+      },
+      {
+        "order": 19,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Reel-Cover/19.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 100564,
+        "format": "webp"
+      },
+      {
+        "order": 20,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Reel-Cover/20.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 136016,
+        "format": "webp"
+      },
+      {
+        "order": 21,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Reel-Cover/21.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 137526,
+        "format": "webp"
+      },
+      {
+        "order": 22,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Reel-Cover/22.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 108900,
+        "format": "webp"
+      },
+      {
+        "order": 23,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Reel-Cover/23.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 95280,
+        "format": "webp"
+      },
+      {
+        "order": 24,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Reel-Cover/24.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 145894,
+        "format": "webp"
+      },
+      {
+        "order": 25,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Reel-Cover/25.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 173984,
+        "format": "webp"
+      },
+      {
+        "order": 26,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Reel-Cover/26.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 90432,
+        "format": "webp"
+      },
+      {
+        "order": 27,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Reel-Cover/27.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 135588,
+        "format": "webp"
+      },
+      {
+        "order": 28,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Reel-Cover/28.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 93172,
+        "format": "webp"
+      },
+      {
+        "order": 29,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Reel-Cover/29.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 152284,
+        "format": "webp"
+      },
+      {
+        "order": 30,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Reel-Cover/30.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 153210,
+        "format": "webp"
+      },
+      {
+        "order": 31,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Reel-Cover/31.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 178612,
+        "format": "webp"
+      },
+      {
+        "order": 32,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Reel-Cover/32.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 200552,
+        "format": "webp"
+      },
+      {
+        "order": 33,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Reel-Cover/33.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 178800,
+        "format": "webp"
+      },
+      {
+        "order": 34,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Reel-Cover/34.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 142124,
+        "format": "webp"
+      }
+    ],
+    "post": [
+      {
+        "order": 1,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Post/1.webp",
+        "width": 1587,
+        "height": 2245,
+        "aspectRatio": "1:1.41",
+        "sizeBytes": 250508,
+        "format": "webp"
+      },
+      {
+        "order": 2,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Post/2.webp",
+        "width": 1587,
+        "height": 2245,
+        "aspectRatio": "1:1.41",
+        "sizeBytes": 294810,
+        "format": "webp"
+      },
+      {
+        "order": 3,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Post/3.webp",
+        "width": 1587,
+        "height": 2245,
+        "aspectRatio": "1:1.41",
+        "sizeBytes": 442300,
+        "format": "webp"
+      },
+      {
+        "order": 4,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Post/4.webp",
+        "width": 1587,
+        "height": 2245,
+        "aspectRatio": "1:1.41",
+        "sizeBytes": 509376,
+        "format": "webp"
+      },
+      {
+        "order": 5,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Post/5.webp",
+        "width": 1587,
+        "height": 2245,
+        "aspectRatio": "1:1.41",
+        "sizeBytes": 450974,
+        "format": "webp"
+      },
+      {
+        "order": 6,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Post/6.webp",
+        "width": 1587,
+        "height": 2245,
+        "aspectRatio": "1:1.41",
+        "sizeBytes": 373598,
+        "format": "webp"
+      },
+      {
+        "order": 7,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Post/7.webp",
+        "width": 1587,
+        "height": 2245,
+        "aspectRatio": "1:1.41",
+        "sizeBytes": 272724,
+        "format": "webp"
+      },
+      {
+        "order": 8,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Post/8.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 184260,
+        "format": "webp"
+      },
+      {
+        "order": 9,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Cuts-and-Curves/Post/9.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 190520,
+        "format": "webp"
+      }
+    ],
+    "logo": [],
+    "highlights": []
+  },
+  "Keshvi-Beauty-Lounge": {
+    "carousel": {
+      "KBL-Carousel-1-TextureVsCakey-Bridal-Authority": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Keshvi-Beauty-Lounge/Carousel/KBL-Carousel-1-TextureVsCakey-Bridal-Authority/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 86528,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Keshvi-Beauty-Lounge/Carousel/KBL-Carousel-1-TextureVsCakey-Bridal-Authority/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 49866,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Keshvi-Beauty-Lounge/Carousel/KBL-Carousel-1-TextureVsCakey-Bridal-Authority/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 91110,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Keshvi-Beauty-Lounge/Carousel/KBL-Carousel-1-TextureVsCakey-Bridal-Authority/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 84858,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Keshvi-Beauty-Lounge/Carousel/KBL-Carousel-1-TextureVsCakey-Bridal-Authority/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 80134,
+          "format": "webp"
+        }
+      ],
+      "KBL-Carousel-2-PartyGlam-Portfolio": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Keshvi-Beauty-Lounge/Carousel/KBL-Carousel-2-PartyGlam-Portfolio/6.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 116930,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Keshvi-Beauty-Lounge/Carousel/KBL-Carousel-2-PartyGlam-Portfolio/7.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 77932,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Keshvi-Beauty-Lounge/Carousel/KBL-Carousel-2-PartyGlam-Portfolio/8.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 85196,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Keshvi-Beauty-Lounge/Carousel/KBL-Carousel-2-PartyGlam-Portfolio/9.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 89478,
+          "format": "webp"
+        }
+      ],
+      "KBL-Carousel-3-Heritage-Bride-Portfolio": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Keshvi-Beauty-Lounge/Carousel/KBL-Carousel-3-Heritage-Bride-Portfolio/10.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 190378,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Keshvi-Beauty-Lounge/Carousel/KBL-Carousel-3-Heritage-Bride-Portfolio/11.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 234368,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Keshvi-Beauty-Lounge/Carousel/KBL-Carousel-3-Heritage-Bride-Portfolio/12.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 231300,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Keshvi-Beauty-Lounge/Carousel/KBL-Carousel-3-Heritage-Bride-Portfolio/13.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 119694,
+          "format": "webp"
+        }
+      ]
+    },
+    "reelCover": [
+      {
+        "order": 1,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Keshvi-Beauty-Lounge/Reel-Cover/KBL-Mehendi-Portfolio-Reel-Cover-01.webp",
+        "width": 1080,
+        "height": 1920,
+        "aspectRatio": "9:16",
+        "sizeBytes": 112760,
+        "format": "webp"
+      }
+    ],
+    "post": [
+      {
+        "order": 1,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Keshvi-Beauty-Lounge/KBL-Signature-Packages-Collection-Posters/15.webp",
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "4:5",
+        "sizeBytes": 85416,
+        "format": "webp"
+      },
+      {
+        "order": 2,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Keshvi-Beauty-Lounge/KBL-Signature-Packages-Collection-Posters/16.webp",
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "4:5",
+        "sizeBytes": 146418,
+        "format": "webp"
+      },
+      {
+        "order": 3,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Keshvi-Beauty-Lounge/KBL-Signature-Packages-Collection-Posters/17.webp",
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "4:5",
+        "sizeBytes": 125424,
+        "format": "webp"
+      },
+      {
+        "order": 4,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Keshvi-Beauty-Lounge/KBL-Signature-Packages-Collection-Posters/18.webp",
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "4:5",
+        "sizeBytes": 119996,
+        "format": "webp"
+      },
+      {
+        "order": 5,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Keshvi-Beauty-Lounge/KBL-Signature-Packages-Collection-Posters/19.webp",
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "4:5",
+        "sizeBytes": 146914,
+        "format": "webp"
+      }
+    ],
+    "logo": [
+      {
+        "order": 1,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Keshvi-Beauty-Lounge/Keshvi-Beauty-Lounge-Logo/1.webp",
+        "width": 2000,
+        "height": 2000,
+        "aspectRatio": "1:1",
+        "sizeBytes": 34960,
+        "format": "webp"
+      },
+      {
+        "order": 2,
+        "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/Keshvi-Beauty-Lounge/Keshvi-Beauty-Lounge-Logo/2.webp",
+        "width": 2000,
+        "height": 2000,
+        "aspectRatio": "1:1",
+        "sizeBytes": 35246,
+        "format": "webp"
+      }
+    ],
+    "highlights": []
+  },
+  "RanjeetRaj": {
+    "carousel": {
+      "RR-01-Pro-Designer-Vocabulary-Carousel": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-01-Pro-Designer-Vocabulary-Carousel/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 125546,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-01-Pro-Designer-Vocabulary-Carousel/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 67794,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-01-Pro-Designer-Vocabulary-Carousel/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 68094,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-01-Pro-Designer-Vocabulary-Carousel/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 87458,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-01-Pro-Designer-Vocabulary-Carousel/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 100958,
+          "format": "webp"
+        },
+        {
+          "order": 6,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-01-Pro-Designer-Vocabulary-Carousel/6.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 79084,
+          "format": "webp"
+        },
+        {
+          "order": 7,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-01-Pro-Designer-Vocabulary-Carousel/7.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 48708,
+          "format": "webp"
+        },
+        {
+          "order": 8,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-01-Pro-Designer-Vocabulary-Carousel/8.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 53302,
+          "format": "webp"
+        }
+      ],
+      "RR-02-Attractive-Brand-Colors-Carousel": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-02-Attractive-Brand-Colors-Carousel/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 276824,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-02-Attractive-Brand-Colors-Carousel/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 96186,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-02-Attractive-Brand-Colors-Carousel/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 96412,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-02-Attractive-Brand-Colors-Carousel/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 97822,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-02-Attractive-Brand-Colors-Carousel/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 94722,
+          "format": "webp"
+        },
+        {
+          "order": 6,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-02-Attractive-Brand-Colors-Carousel/6.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 105484,
+          "format": "webp"
+        },
+        {
+          "order": 7,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-02-Attractive-Brand-Colors-Carousel/7.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 194710,
+          "format": "webp"
+        }
+      ],
+      "RR-03-The-Batching-System-Carousel": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-03-The-Batching-System-Carousel/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 175918,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-03-The-Batching-System-Carousel/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 99546,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-03-The-Batching-System-Carousel/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 91304,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-03-The-Batching-System-Carousel/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 102242,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-03-The-Batching-System-Carousel/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 86210,
+          "format": "webp"
+        },
+        {
+          "order": 6,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-03-The-Batching-System-Carousel/6.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 89268,
+          "format": "webp"
+        },
+        {
+          "order": 7,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-03-The-Batching-System-Carousel/7.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 80782,
+          "format": "webp"
+        },
+        {
+          "order": 8,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-03-The-Batching-System-Carousel/8.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 87580,
+          "format": "webp"
+        },
+        {
+          "order": 9,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-03-The-Batching-System-Carousel/9.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 112448,
+          "format": "webp"
+        },
+        {
+          "order": 10,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-03-The-Batching-System-Carousel/10.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 86556,
+          "format": "webp"
+        }
+      ],
+      "RR-04-Top-Canva-Background-Keywords-Carousel": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-04-Top-Canva-Background-Keywords-Carousel/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 171840,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-04-Top-Canva-Background-Keywords-Carousel/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 107218,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-04-Top-Canva-Background-Keywords-Carousel/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 142234,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-04-Top-Canva-Background-Keywords-Carousel/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 144520,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-04-Top-Canva-Background-Keywords-Carousel/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 192620,
+          "format": "webp"
+        },
+        {
+          "order": 6,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-04-Top-Canva-Background-Keywords-Carousel/6.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 152972,
+          "format": "webp"
+        },
+        {
+          "order": 7,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-04-Top-Canva-Background-Keywords-Carousel/7.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 113506,
+          "format": "webp"
+        },
+        {
+          "order": 8,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-04-Top-Canva-Background-Keywords-Carousel/8.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 156568,
+          "format": "webp"
+        },
+        {
+          "order": 9,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-04-Top-Canva-Background-Keywords-Carousel/9.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 130860,
+          "format": "webp"
+        },
+        {
+          "order": 10,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-04-Top-Canva-Background-Keywords-Carousel/10.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 125318,
+          "format": "webp"
+        },
+        {
+          "order": 11,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-04-Top-Canva-Background-Keywords-Carousel/11.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 133082,
+          "format": "webp"
+        },
+        {
+          "order": 12,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-04-Top-Canva-Background-Keywords-Carousel/12.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 121678,
+          "format": "webp"
+        },
+        {
+          "order": 13,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-04-Top-Canva-Background-Keywords-Carousel/13.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 161176,
+          "format": "webp"
+        },
+        {
+          "order": 14,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-04-Top-Canva-Background-Keywords-Carousel/14.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 107872,
+          "format": "webp"
+        },
+        {
+          "order": 15,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-04-Top-Canva-Background-Keywords-Carousel/15.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 155268,
+          "format": "webp"
+        },
+        {
+          "order": 16,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-04-Top-Canva-Background-Keywords-Carousel/16.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 116952,
+          "format": "webp"
+        },
+        {
+          "order": 17,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-04-Top-Canva-Background-Keywords-Carousel/17.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 110388,
+          "format": "webp"
+        },
+        {
+          "order": 18,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-04-Top-Canva-Background-Keywords-Carousel/18.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 159608,
+          "format": "webp"
+        },
+        {
+          "order": 19,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-04-Top-Canva-Background-Keywords-Carousel/19.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 116276,
+          "format": "webp"
+        }
+      ],
+      "RR-05-Flat-to-3D-Logos-AI-Trick-Carousel": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-05-Flat-to-3D-Logos-AI-Trick-Carousel/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 285016,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-05-Flat-to-3D-Logos-AI-Trick-Carousel/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 111400,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-05-Flat-to-3D-Logos-AI-Trick-Carousel/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 96696,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-05-Flat-to-3D-Logos-AI-Trick-Carousel/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 104422,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-05-Flat-to-3D-Logos-AI-Trick-Carousel/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 107174,
+          "format": "webp"
+        },
+        {
+          "order": 6,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-05-Flat-to-3D-Logos-AI-Trick-Carousel/6.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 132636,
+          "format": "webp"
+        },
+        {
+          "order": 7,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-05-Flat-to-3D-Logos-AI-Trick-Carousel/7.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 86556,
+          "format": "webp"
+        }
+      ],
+      "RR-06-ChatGPT-Image-2.0-Prompts-Carousel": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-06-ChatGPT-Image-2.0-Prompts-Carousel/1.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 194914,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-06-ChatGPT-Image-2.0-Prompts-Carousel/2.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 177668,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-06-ChatGPT-Image-2.0-Prompts-Carousel/3.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 196906,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-06-ChatGPT-Image-2.0-Prompts-Carousel/4.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 177498,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-06-ChatGPT-Image-2.0-Prompts-Carousel/5.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 194710,
+          "format": "webp"
+        }
+      ],
+      "RR-07-The-Carousel-Anatomy-Guide": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-07-The-Carousel-Anatomy-Guide/1.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 107872,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-07-The-Carousel-Anatomy-Guide/2.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 171842,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-07-The-Carousel-Anatomy-Guide/3.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 58614,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-07-The-Carousel-Anatomy-Guide/4.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 52600,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-07-The-Carousel-Anatomy-Guide/5.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 60250,
+          "format": "webp"
+        },
+        {
+          "order": 6,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-07-The-Carousel-Anatomy-Guide/6.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 125128,
+          "format": "webp"
+        },
+        {
+          "order": 7,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-07-The-Carousel-Anatomy-Guide/7.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 148366,
+          "format": "webp"
+        },
+        {
+          "order": 8,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-07-The-Carousel-Anatomy-Guide/8.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 145620,
+          "format": "webp"
+        },
+        {
+          "order": 9,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-07-The-Carousel-Anatomy-Guide/9.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 145992,
+          "format": "webp"
+        },
+        {
+          "order": 10,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-07-The-Carousel-Anatomy-Guide/10.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 125402,
+          "format": "webp"
+        },
+        {
+          "order": 11,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/RanjeetRaj/Carousel/RR-07-The-Carousel-Anatomy-Guide/11.webp",
+          "width": 1080,
+          "height": 1350,
+          "aspectRatio": "4:5",
+          "sizeBytes": 86556,
+          "format": "webp"
+        }
+      ]
+    },
+    "reelCover": [],
+    "post": [],
+    "logo": [],
+    "highlights": []
+  },
+  "WaterPlane": {
+    "carousel": {
+      "WP-01-Growth-Is-a-Mindset-Not-a-Metric": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-01-Growth-Is-a-Mindset-Not-a-Metric/1.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 144580,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-01-Growth-Is-a-Mindset-Not-a-Metric/2.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 95402,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-01-Growth-Is-a-Mindset-Not-a-Metric/3.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 138066,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-01-Growth-Is-a-Mindset-Not-a-Metric/4.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 81798,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-01-Growth-Is-a-Mindset-Not-a-Metric/5.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 82930,
+          "format": "webp"
+        },
+        {
+          "order": 6,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-01-Growth-Is-a-Mindset-Not-a-Metric/6.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 102516,
+          "format": "webp"
+        },
+        {
+          "order": 7,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-01-Growth-Is-a-Mindset-Not-a-Metric/7.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 100056,
+          "format": "webp"
+        },
+        {
+          "order": 8,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-01-Growth-Is-a-Mindset-Not-a-Metric/8.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 69084,
+          "format": "webp"
+        }
+      ],
+      "WP-02-WE-DONT-GUESS-WE-MEASURE": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-02-WE-DONT-GUESS-WE-MEASURE/1.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 73258,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-02-WE-DONT-GUESS-WE-MEASURE/2.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 109380,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-02-WE-DONT-GUESS-WE-MEASURE/3.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 116800,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-02-WE-DONT-GUESS-WE-MEASURE/4.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 92210,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-02-WE-DONT-GUESS-WE-MEASURE/5.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 79484,
+          "format": "webp"
+        },
+        {
+          "order": 6,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-02-WE-DONT-GUESS-WE-MEASURE/6.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 87310,
+          "format": "webp"
+        },
+        {
+          "order": 7,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-02-WE-DONT-GUESS-WE-MEASURE/7.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 76568,
+          "format": "webp"
+        },
+        {
+          "order": 8,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-02-WE-DONT-GUESS-WE-MEASURE/8.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 65350,
+          "format": "webp"
+        }
+      ],
+      "WP-03-SIMPLICITY-CUTS-THROUGH-THE-NOISE": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-03-SIMPLICITY-CUTS-THROUGH-THE-NOISE/1.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 176678,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-03-SIMPLICITY-CUTS-THROUGH-THE-NOISE/2.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 92404,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-03-SIMPLICITY-CUTS-THROUGH-THE-NOISE/3.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 52490,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-03-SIMPLICITY-CUTS-THROUGH-THE-NOISE/4.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 95628,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-03-SIMPLICITY-CUTS-THROUGH-THE-NOISE/5.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 149330,
+          "format": "webp"
+        },
+        {
+          "order": 6,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-03-SIMPLICITY-CUTS-THROUGH-THE-NOISE/6.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 76042,
+          "format": "webp"
+        },
+        {
+          "order": 7,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-03-SIMPLICITY-CUTS-THROUGH-THE-NOISE/7.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 44420,
+          "format": "webp"
+        },
+        {
+          "order": 8,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-03-SIMPLICITY-CUTS-THROUGH-THE-NOISE/8.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 66918,
+          "format": "webp"
+        }
+      ],
+      "WP-04-COLLABORATION-CREATES-STRONGER-BRANDS": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-04-COLLABORATION-CREATES-STRONGER-BRANDS/1.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 148190,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-04-COLLABORATION-CREATES-STRONGER-BRANDS/2.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 110788,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-04-COLLABORATION-CREATES-STRONGER-BRANDS/3.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 151930,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-04-COLLABORATION-CREATES-STRONGER-BRANDS/4.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 147232,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-04-COLLABORATION-CREATES-STRONGER-BRANDS/5.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 117038,
+          "format": "webp"
+        },
+        {
+          "order": 6,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-04-COLLABORATION-CREATES-STRONGER-BRANDS/6.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 103336,
+          "format": "webp"
+        },
+        {
+          "order": 7,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-04-COLLABORATION-CREATES-STRONGER-BRANDS/7.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 65978,
+          "format": "webp"
+        },
+        {
+          "order": 8,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-04-COLLABORATION-CREATES-STRONGER-BRANDS/8.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 57380,
+          "format": "webp"
+        }
+      ],
+      "WP-05-BRANDING-ISNT-COSMETIC": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-05-BRANDING-ISNT-COSMETIC/1.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 81564,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-05-BRANDING-ISNT-COSMETIC/2.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 107516,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-05-BRANDING-ISNT-COSMETIC/3.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 133316,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-05-BRANDING-ISNT-COSMETIC/4.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 84188,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-05-BRANDING-ISNT-COSMETIC/5.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 92502,
+          "format": "webp"
+        },
+        {
+          "order": 6,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-05-BRANDING-ISNT-COSMETIC/6.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 85352,
+          "format": "webp"
+        },
+        {
+          "order": 7,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-05-BRANDING-ISNT-COSMETIC/7.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 98944,
+          "format": "webp"
+        },
+        {
+          "order": 8,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-05-BRANDING-ISNT-COSMETIC/8.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 63518,
+          "format": "webp"
+        }
+      ],
+      "WP-06-THE-ICEBERG-WHAT-YOU-SEE-VS-WHAT-YOU-DONT": [
+        {
+          "order": 1,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-06-THE-ICEBERG-WHAT-YOU-SEE-VS-WHAT-YOU-DONT/1.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 320544,
+          "format": "webp"
+        },
+        {
+          "order": 2,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-06-THE-ICEBERG-WHAT-YOU-SEE-VS-WHAT-YOU-DONT/2.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 373576,
+          "format": "webp"
+        },
+        {
+          "order": 3,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-06-THE-ICEBERG-WHAT-YOU-SEE-VS-WHAT-YOU-DONT/3.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 323958,
+          "format": "webp"
+        },
+        {
+          "order": 4,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-06-THE-ICEBERG-WHAT-YOU-SEE-VS-WHAT-YOU-DONT/4.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 193866,
+          "format": "webp"
+        },
+        {
+          "order": 5,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-06-THE-ICEBERG-WHAT-YOU-SEE-VS-WHAT-YOU-DONT/5.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 319072,
+          "format": "webp"
+        },
+        {
+          "order": 6,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-06-THE-ICEBERG-WHAT-YOU-SEE-VS-WHAT-YOU-DONT/6.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 279268,
+          "format": "webp"
+        },
+        {
+          "order": 7,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-06-THE-ICEBERG-WHAT-YOU-SEE-VS-WHAT-YOU-DONT/7.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 245222,
+          "format": "webp"
+        },
+        {
+          "order": 8,
+          "url": "https://cdn.jsdelivr.net/gh/vanshdigitals/Vanshdigitals-Assets@main/optimized/WaterPlane/Carousel/WP-06-THE-ICEBERG-WHAT-YOU-SEE-VS-WHAT-YOU-DONT/8.webp",
+          "width": 1080,
+          "height": 1440,
+          "aspectRatio": "3:4",
+          "sizeBytes": 309828,
+          "format": "webp"
+        }
+      ]
+    },
+    "reelCover": [],
+    "post": [],
+    "logo": [],
+    "highlights": []
+  }
+}
